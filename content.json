@@ -1,6 +1,6 @@
 {
   "version": 1790824853,
-  "published_at": "2026-10-01T03:20:53.843962Z",
+  "published_at": "2026-09-01T03:20:53.843962Z",
   "activities": [
     {
       "activity_id": "AS01",
@@ -20,7 +20,7 @@
       "audio_closing": null,
       "audio_grownup": null,
       "portrait_url": null,
-      "release_date": "2026-9-01T00:00:00Z"
+      "release_date": "2026-09-01T00:00:00Z"
     },
     {
       "activity_id": "AS02",
